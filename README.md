@@ -11,7 +11,7 @@
 <ul style="list-style-type:square;">
     <li><b><a href="https://github.com/tfeshelman/CSharp-Demo/blob/main/clsData.cs">clsData.cs</a></b> sets up the database connection and readies public accessors for queries.</li>
     <li><b><a href="https://github.com/tfeshelman/CSharp-Demo/blob/main/clsDetails.cs">clsDetails.cs</a></b> is a class with submembers for returning database material, capable of being overloaded, and contains a mild text cleaner.</li>
-    <li><b><a href="https://github.com/tfeshelman/CSharp-Demo/blob/main/frmReports.cs">frmReports.cs</a></b> is another overloadable class user as an all-purpose form for displaying additional info, included here to show its HTML capabilities.</li>
+    <li><b><a href="https://github.com/tfeshelman/CSharp-Demo/blob/main/frmReport.cs">frmReport.cs</a></b> is another overloadable class user as an all-purpose form for displaying additional info, included here to show its HTML capabilities.</li>
 </ul>
 <br>
 
